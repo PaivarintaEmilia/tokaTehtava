@@ -1,0 +1,6 @@
+jupyterlab
+odd
+# second
+numpy
+# for pandas
+pandas
