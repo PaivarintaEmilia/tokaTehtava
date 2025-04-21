@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Excels
+laplandVisits.xlsx
+lapland_visits_bonus.xlsx

@@ -4,3 +4,6 @@ odd
 numpy
 # for pandas
 pandas
+# Graphics
+matplotlib
+seaborn
